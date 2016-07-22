@@ -2,7 +2,7 @@
   "name": "build-iced",
   "version": "0.0.0",
   "description": "Atom Build provider for iced, compiles IcedCoffeeScript",
-  "repository": "https://github.com/idleberg/atom-build-coffees",
+  "repository": "https://github.com/idleberg/atom-build-iced",
   "license": "MIT",
   "keywords": [
     "build",
