@@ -38,8 +38,8 @@ $ git clone https://github.com/idleberg/atom-build-iced build-iced
 Install Node dependencies:
 
 ```bash
-cd build-iced
-npm install
+$ cd build-iced
+$ npm install
 ```
 
 ## Usage
