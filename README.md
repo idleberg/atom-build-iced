@@ -35,6 +35,13 @@ Clone repository as `build-iced`:
 $ git clone https://github.com/idleberg/atom-build-iced build-iced
 ```
 
+Install Node dependencies:
+
+```bash
+cd build-iced
+npm install
+```
+
 ## Usage
 
 ### Build
