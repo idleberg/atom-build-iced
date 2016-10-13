@@ -17,7 +17,7 @@ Install `build-iced` from Atom's [Package Manager](http://flight-manual.atom.io/
 
 `$ apm install build-iced`
 
-### GitHub
+### Using Git
 
 Change to your Atom packages directory:
 
